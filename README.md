@@ -18,4 +18,6 @@ A clean, responsive, and beginner-friendly personal portfolio website built usin
 
 https://github.com/SayantaniSimlai/Personal-Portfolio-Website.git
 
+Show on LinkedIn :- https://www.linkedin.com/posts/sayantanisimlai_internship-pinnaclelabs-task1-activity-7355602735116738564-EBVc?utm_source=share&utm_medium=member_android&rcm=ACoAAFOYElgBJfu7-GWdcbfqZetJY_uFBa2Tt-w
+
 
